@@ -1,0 +1,1 @@
+# A-Variance-Based-Method-for-Lyapunov-Exponent-Estimation
